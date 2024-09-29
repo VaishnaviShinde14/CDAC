@@ -1,0 +1,15 @@
+
+
+public class SquareRoot{
+	public static double sqrt(int x){
+		return Math.squt(x);
+		}	
+	public static void main(String[] args){
+		System.out.println((int)sqrt(16));
+		System.out.println((int)sqrt(27));
+		
+		
+	}
+}	
+		
+		
